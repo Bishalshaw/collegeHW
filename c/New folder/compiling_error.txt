@@ -1,0 +1,14 @@
+/bishal/Desktop/post4/c/New folder/STACK.C:16:12: error: ‘::main’ must return ‘int’
+ void main ()
+            ^
+/bishal/Desktop/post4/c/New folder/STACK.C: In function ‘int main()’:
+/bishal/Desktop/post4/c/New folder/STACK.C:20:5: error: ‘clrscr’ was not declared in this scope
+     clrscr();
+     ^~~~~~
+/bishal/Desktop/post4/c/New folder/STACK.C:20:5: note: suggested alternative: ‘class’
+     clrscr();
+     ^~~~~~
+     class
+/bishal/Desktop/post4/c/New folder/STACK.C:46:13: error: return-statement with no value, in function returning ‘int’ [-fpermissive]
+             return;
+             ^~~~~~
